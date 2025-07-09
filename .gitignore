@@ -1,0 +1,27 @@
+# Node.js
+/node_modules
+/dist
+/.env
+
+# TypeScript
+*.tsbuildinfo
+
+# Log files
+*.log
+
+# MacOS files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Package locked files
+
+package-lock.json
